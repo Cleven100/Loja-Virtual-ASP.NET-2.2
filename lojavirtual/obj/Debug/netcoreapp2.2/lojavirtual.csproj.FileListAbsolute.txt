@@ -1,0 +1,16 @@
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\bin\Debug\netcoreapp2.2\lojavirtual.deps.json
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\bin\Debug\netcoreapp2.2\lojavirtual.runtimeconfig.json
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\bin\Debug\netcoreapp2.2\lojavirtual.runtimeconfig.dev.json
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\bin\Debug\netcoreapp2.2\lojavirtual.dll
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\bin\Debug\netcoreapp2.2\lojavirtual.pdb
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\bin\Debug\netcoreapp2.2\lojavirtual.Views.dll
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.csprojAssemblyReference.cache
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.csproj.CoreCompileInputs.cache
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.RazorAssemblyInfo.cache
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.RazorAssemblyInfo.cs
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.AssemblyInfoInputs.cache
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.AssemblyInfo.cs
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.RazorTargetAssemblyInfo.cache
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.dll
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.pdb
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.csproj.CopyComplete
