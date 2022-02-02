@@ -14,3 +14,10 @@ C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojav
 C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.dll
 C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.pdb
 C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.csproj.CopyComplete
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\bin\Debug\netcoreapp2.2\lojavirtual.Views.pdb
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.TagHelpers.input.cache
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.TagHelpers.output.cache
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.RazorCoreGenerate.cache
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Visualizar.g.cshtml.cs
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.RazorTargetAssemblyInfo.cs
+C:\Users\Cleven-PC\Desktop\LojaVirtual\lojavirtual\obj\Debug\netcoreapp2.2\lojavirtual.Views.pdb
